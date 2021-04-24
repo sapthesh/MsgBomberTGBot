@@ -1,6 +1,6 @@
 <h1 align="center">MsgBomberTGBot Telegram Bot - v1.1</h1>
 <p align="center">An open-source SMS bomber bot for Telegram. Inspired by TheSpeedX's Project</p><br>
-![GitHub all releases](https://img.shields.io/github/downloads/sapthesh/MsgBomberTGBot/total)
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/sapthesh/MsgBomberTGBot/total?style=flat-square">
 
 ## Note:
 
