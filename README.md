@@ -40,7 +40,7 @@ Run these commands to run the bot
 This bot can run in non-docker mode
 To use the bomber type the following commands in your favorite cli-tool:
 ```
-git clone https://github.com/SoapDev2018/MsgBomberTGBot.git
+git clone https://github.com/sapthesh/MsgBomberTGBot.git
 cd MsgBomberTGBot
 pip3 install -r requirements.txt
 ```
@@ -55,7 +55,7 @@ python3 main.py
 This bot can run in non-docker mode
 To use the bomber type the following commands in your favorite cli-tool:
 ```
-git clone https://github.com/SoapDev2018/MsgBomberTGBot.git
+git clone https://github.com/sapthesh/MsgBomberTGBot.git
 cd MsgBomberTGBot
 pip install -r requirements.txt
 ```
@@ -102,12 +102,6 @@ sudo docker run MsgBomberTGBot
 
 - **AvinashReddy3108** for his awesome list of bombing sources<br>
 [-] Check Out Repo At: https://github.com/AvinashReddy3108/YetAnotherSMSBomber
-
-## Donators:
-
-**[@] 34D30Y** (34db0y@protonmail.com)
-
-**[@] SC AMAN**
 
 # CONTACT ME:
 
